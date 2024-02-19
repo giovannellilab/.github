@@ -1,8 +1,4 @@
-# Giovannelli Lab.
-
-Welcome to the GitHub page of the Giovannelli Lab!
-
-</br>
+# Welcome to the GitHub page of the Giovannelli Lab! :wave::wave:
 
 <img src="https://github.com/giovannellilab/.github/assets/51702484/9be11ca2-378f-4084-9dfd-6f84f681399e" width="300" >
 
